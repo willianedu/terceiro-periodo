@@ -16,4 +16,7 @@ public class Cidade {
     @JoinColumn(name = "id_estado")
     Estado estado;
 
+
+    // private Boolean ativo;
+
 }
